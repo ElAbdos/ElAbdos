@@ -5,9 +5,8 @@
 
 - 🔭 Je travaille actuellement sur un **projet de gestion immobilière**
 - 🌱 J'apprends en ce moment **JavaScript et ses frameworks, ainsi que Flutter**
-- 💬 Pose-moi des questions sur **le développement Web, mobile, ou l'astrologie 😉**
+- 💬 Pose-moi des questions sur **le développement Web, mobile, développement d'application , database et infrastructure système ainsi que sur les IA  😉**
 - 📫 Tu peux me contacter ici : **abdeloffipro@gmail.com**
-- ⚡ Fun fact : Je peux parler code autant que je parle étoiles ✨
 
 ---
 
