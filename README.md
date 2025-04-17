@@ -1,62 +1,60 @@
-<h1 align="center">Hi 👋, I'm Abdel El Haroria</h1>
-<h3 align="center">A passionate developer with a love for astrology and science</h3>
+<h1 align="center">Salut 👋, moi c'est Abdel El Haroria</h1>
+<h3 align="center">Développeur passionné par la tech, l'astrologie 🌌 et la science 🔬</h3>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on **Real estate management project**  
-
-- 🌱 I’m currently learning **JavaScript and related frameworks**  
-
-- 💬 Ask me about **JavaScript frameworks and development**  
-
-- 📫 How to reach me **abdeloffipro@gmail.com**  
+- 🔭 Je travaille actuellement sur un **projet de gestion immobilière**
+- 🌱 J'apprends en ce moment **JavaScript et ses frameworks, ainsi que Flutter**
+- 💬 Pose-moi des questions sur **le développement Web, mobile, ou l'astrologie 😉**
+- 📫 Tu peux me contacter ici : **abdeloffipro@gmail.com**
+- ⚡ Fun fact : Je peux parler code autant que je parle étoiles ✨
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Me retrouver ailleurs :</h3>
 <p align="left">
-  <a href="https://discord.gg/just_abdel" target="blank">
+  <a href="https://discord.gg/just_abdel" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="just_abdel" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
+<h3 align="left">🛠️ Langages et Outils :</h3>
+<p align="left">
+  <!-- Web -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
+  
+  <!-- Backend & Base de données -->
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+  
+  <!-- Mobile -->
+  <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/></a>
+
+  <!-- Langages supplémentaires -->
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
+  
+  <!-- Autres outils -->
+  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop"/></a>
 </p>
 
 ---
 
-<h3 align="left">✨ Fun Fact:</h3>
-<p>I'm deeply passionate about astrology and science. Feel free to reach out for a conversation about the stars 🌌!</p>
-
----
-
+<h3 align="left">📊 Stats GitHub :</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdel&show_icons=true&theme=radical" alt="Abdel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdel&show_icons=true&theme=radical" alt="Abdel's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdel&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+
+---
+
+<h3 align="left">✨ Fait amusant :</h3>
+<p>Je suis aussi passionné par l'astrologie : chaque ligne de code est comme une constellation ✨</p>
