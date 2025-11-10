@@ -67,7 +67,7 @@ Mon objectif est de concevoir des solutions performantes, robustes et esthétiqu
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://www.vectorlogo.zone/logos/adacore/adacore-icon.svg" width="40" height="40" alt="Ada"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ada/ada-original.svg" width="40" height="40" alt="Ada"/>
 </p>
 
 #### Autres outils et environnements
