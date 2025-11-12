@@ -14,7 +14,7 @@ Mon objectif est de concevoir des solutions performantes, robustes et esthétiqu
 
 - **Projet actuel :** Application de gestion immobilière complète (gestion de coliving, loyers, charges, etc.)
 - **Apprentissage en cours :** JavaScript (et frameworks associés) & Flutter
-- **Centres d’intérêt :** développement logiciel, intelligence artificielle, astrophysique et exploration scientifique
+- **Centres d’intérêt :** développement logiciel, intelligence artificielle, astrophysique et les sciences, en règle générale.
 - **Contact :** [abdeloffipro@gmail.com](mailto:abdeloffipro@gmail.com)
 
 ---
