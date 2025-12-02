@@ -33,8 +33,7 @@ const abdel = {
                "Astrophysique", "Sciences"],
     
     actuellement: {
-        projet: "Application de gestion immobilière (coliving, loyers, charges)",
-        apprentissage: ["JavaScript avancé", "Flutter", "React Native"],
+        apprentissage: ["JavaScript avancé", "Flutter", "React Native", "IA" ],
     },
     
     philosophie: "Chaque ligne de code est une expérience scientifique"
@@ -44,9 +43,6 @@ const abdel = {
 <div align="center">
   <a href="mailto:abdeloffipro@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://discord.gg/just_abdel">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://github.com/ElAbdos">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -97,23 +93,6 @@ const abdel = {
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=ElAbdos" alt="GitHub Stats"/>
 </p>
-
----
-
-## 🎯 Objectifs 2025
-
-- [ ] 🌐 Maîtriser un framework JS moderne (React/Vue avancé)
-- [ ] 📱 Publier une application Flutter sur les stores
-- [ ] 🤖 Explorer le Machine Learning avec Python
-- [ ] 🏆 Contribuer à des projets open-source
-
----
-
-<div align="center">
-
-### 💭 Ma philosophie
-
-> *"Chaque ligne de code est une expérience scientifique : comprendre, expérimenter, améliorer."*
 
 ---
 
