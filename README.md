@@ -1,93 +1,151 @@
-<h1 align="center">Abdel El Haroria</h1>
-<h3 align="center">Développeur passionné par la technologie, la science et la recherche de solutions innovantes</h3>
+<div align="center">
+  
+<!-- Header animé -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Salut+%F0%9F%91%8B+Je+suis+Abdel+El+Haroria;D%C3%A9veloppeur+Full-Stack+%7C+%C3%89tudiant+en+Informatique)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
-</p>
+<!-- Bannière -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
+
+<!-- Photo de profil avec effet -->
+<a href="https://github.com/ElAbdos">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="Coding Animation"/>
+</a>
+
+<br/>
+
+<!-- Badges de profil -->
+[![Profile Views](https://komarev.com/ghpvc/?username=ElAbdos&color=6C63FF&style=for-the-badge&label=Visiteurs)](https://github.com/ElAbdos)
+[![GitHub followers](https://img.shields.io/github/followers/ElAbdos?style=for-the-badge&color=6C63FF&labelColor=1a1b27)](https://github.com/ElAbdos?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/ElAbdos?style=for-the-badge&color=6C63FF&labelColor=1a1b27)](https://github.com/ElAbdos)
+
+</div>
 
 ---
 
-### 🚀 À propos
+## 🧑‍💻 À propos de moi
 
-Je suis actuellement étudiant en informatique à l’IUT de Toulouse Paul Sabatier et développeur passionné par la création d’applications web, mobiles et logicielles.  
-Mon objectif est de concevoir des solutions performantes, robustes et esthétiques, tout en continuant à explorer les nouvelles technologies.
+```typescript
+const abdel = {
+    localisation: "Toulouse, France 🇫🇷",
+    formation: "BUT Informatique @ IUT Paul Sabatier",
+    
+    passions: ["Développement logiciel", "Intelligence Artificielle", 
+               "Astrophysique", "Sciences"],
+    
+    actuellement: {
+        projet: "Application de gestion immobilière (coliving, loyers, charges)",
+        apprentissage: ["JavaScript avancé", "Flutter", "React Native"],
+    },
+    
+    philosophie: "Chaque ligne de code est une expérience scientifique"
+};
+```
 
-- **Projet actuel :** Application de gestion immobilière complète (gestion de coliving, loyers, charges, etc.)
-- **Apprentissage en cours :** JavaScript (et frameworks associés) & Flutter
-- **Centres d’intérêt :** développement logiciel, intelligence artificielle, astrophysique et les sciences, en règle générale.
-- **Contact :** [abdeloffipro@gmail.com](mailto:abdeloffipro@gmail.com)
-
----
-
-### 🌐 Me retrouver ailleurs
-
-<p align="left">
-  <a href="https://discord.gg/just_abdel" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/>
+<div align="center">
+  <a href="mailto:abdeloffipro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+  <a href="https://discord.gg/just_abdel">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://github.com/ElAbdos">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
 ---
 
-### 🛠️ Langages et Outils
+## 🛠️ Stack Technique
 
-#### Développement Web
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-</p>
+<div align="center">
 
-#### Frameworks & Librairies
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/>
-</p>
+### 💻 Langages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-#### Backend & Bases de données
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-</p>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Développement Mobile
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
-</p>
+### ⚙️ Backend & Base de données
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### Langages complémentaires
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ada/ada-original.svg" width="40" height="40" alt="Ada"/>
-</p>
+### 🔧 Outils & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#### Autres outils et environnements
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
-</p>
+</div>
 
 ---
 
-### 📊 Statistiques GitHub
+## 📊 Statistiques GitHub
 
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?login=ElAbdos" />
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ElAbdos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ElAbdos&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAbdos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9" />
+
+</div>
+
+<!-- Graphique d'activité -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElAbdos&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" width="95%"/>
+</div>
+
 ---
 
-### Citation
+## 🚀 Projets en vedette
 
-> “Chaque ligne de code est une expérience scientifique : comprendre, expérimenter, améliorer.”
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ElAbdos&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/ElAbdos/REPO_NAME)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ElAbdos&repo=REPO_NAME2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/ElAbdos/REPO_NAME2)
+
+</div>
+
+> 💡 *Remplace `REPO_NAME` par les noms de tes repos que tu veux mettre en avant !*
 
 ---
+
+## 🎯 Objectifs 2025
+
+- [ ] 🌐 Maîtriser un framework JS moderne (React/Vue avancé)
+- [ ] 📱 Publier une application Flutter sur les stores
+- [ ] 🤖 Explorer le Machine Learning avec Python
+- [ ] 🏆 Contribuer à des projets open-source
+
+---
+
+<div align="center">
+
+### 💭 Citation du jour
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Chaque%20ligne%20de%20code%20est%20une%20exp%C3%A9rience%20scientifique%20%3A%20comprendre%2C%20exp%C3%A9rimenter%2C%20am%C3%A9liorer.&author=Abdel%20El%20Haroria)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
+### 🤝 Ouvert aux collaborations !
+
+*Tu as un projet intéressant ? Une idée innovante ? N'hésite pas à me contacter !*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
