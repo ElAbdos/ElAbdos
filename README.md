@@ -3,9 +3,6 @@
 <!-- Header animé -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Salut+%F0%9F%91%8B+Je+suis+Abdel+!;D%C3%A9veloppeur+Full-Stack+%F0%9F%92%BB;%C3%89tudiant+%C3%A0+l'IUT+Toulouse+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-<!-- Bannière -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
-
 <!-- Photo de profil avec effet -->
 <a href="https://github.com/ElAbdos">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="Coding Animation"/>
