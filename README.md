@@ -96,7 +96,4 @@ const abdel = {
 *Tu as un projet intéressant ? Une idée innovante ? N'hésite pas à me contacter !*
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
 </div>
