@@ -82,13 +82,8 @@ Mon objectif est de concevoir des solutions performantes, robustes et esthétiqu
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdel&show_icons=true&theme=tokyonight" alt="Abdel's GitHub Stats"/>
+  <img src="https://stats.dooboo.io/api/github-stats?login=elabdos" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdel&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
 ---
 
 ### Citation
