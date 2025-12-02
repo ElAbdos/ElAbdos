@@ -86,7 +86,7 @@ const abdel = {
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?login=ElAbdos" alt="GitHub Stats"/>
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ElAbdos" alt="GitHub Stats"/>
 </p>
 
 ---
