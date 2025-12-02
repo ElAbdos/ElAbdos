@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Header animé -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Salut+%F0%9F%91%8B+Je+suis+Abdel+El+Haroria;D%C3%A9veloppeur+Full-Stack+%7C+%C3%89tudiant+en+Informatique)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Salut+%F0%9F%91%8B+Je+suis+Abdel+!;D%C3%A9veloppeur+Full-Stack+%F0%9F%92%BB;%C3%89tudiant+%C3%A0+l'IUT+Toulouse+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <!-- Bannière -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
@@ -94,32 +94,9 @@ const abdel = {
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ElAbdos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ElAbdos&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAbdos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9" />
-
-</div>
-
-<!-- Graphique d'activité -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElAbdos&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🚀 Projets en vedette
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ElAbdos&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)]([https://github.com/ElAbdos/REPO_NAME](https://github.com/ElAbdos/smarteats))
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ElAbdos&repo=REPO_NAME2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/ElAbdos/REPO_NAME2)
-
-</div>
-
-> 💡 *Remplace `REPO_NAME` par les noms de tes repos que tu veux mettre en avant !*
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats?login=ElAbdos" alt="GitHub Stats"/>
+</p>
 
 ---
 
@@ -134,9 +111,9 @@ const abdel = {
 
 <div align="center">
 
-### 💭 Citation du jour
+### 💭 Ma philosophie
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Chaque%20ligne%20de%20code%20est%20une%20exp%C3%A9rience%20scientifique%20%3A%20comprendre%2C%20exp%C3%A9rimenter%2C%20am%C3%A9liorer.&author=Abdel%20El%20Haroria)](https://github.com/piyushsuthar/github-readme-quotes)
+> *"Chaque ligne de code est une expérience scientifique : comprendre, expérimenter, améliorer."*
 
 ---
 
