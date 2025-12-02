@@ -114,7 +114,7 @@ const abdel = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ElAbdos&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/ElAbdos/REPO_NAME)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ElAbdos&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)]([https://github.com/ElAbdos/REPO_NAME](https://github.com/ElAbdos/smarteats))
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ElAbdos&repo=REPO_NAME2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/ElAbdos/REPO_NAME2)
 
 </div>
