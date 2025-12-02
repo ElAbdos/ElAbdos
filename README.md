@@ -82,7 +82,7 @@ Mon objectif est de concevoir des solutions performantes, robustes et esthétiqu
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?login=elabdos" />
+  <img src="https://stats.dooboo.io/api/github-stats?login=ElAbdos" />
 </p>
 ---
 
